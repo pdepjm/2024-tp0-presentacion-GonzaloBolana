@@ -18,7 +18,7 @@ ________________________________________________________________________________
 * También me dedico a desarrollar mis proyectos personales en la electrónica y a la reparación de PCs y Celulares.
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-### Finalmente, espero que podamos compartir un gran año y tener buena relación entre compañeros :D. 
+### Finalmente, espero que podamos compartir un gran año y tener buena relación entre compañeros :D 
 # ¡Les deseo éxitos a todos! 
 
 ![Ni_o_bailando_electro](https://github.com/pdepjm/2024-tp0-presentacion-GonzaloBolana/assets/131401432/fc357fe1-e73e-4bf7-a40e-ae6a06f4fe63)
