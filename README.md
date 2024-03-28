@@ -2,7 +2,7 @@
 
 ## Mi nombre es Gonzalo León Bolaña 🦁.
 
-#Información Personal o datos de interés:
+## Información Personal o datos de interés:
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 * Actualmente tengo 21 años 😎, nací un 23/03/2003 en la Ciudad Autónoma de Buenos Aires y actualmente me encuentro cursando mi 2do año de Ingeniería en Sistemas de Información en la UTN.
 * Soy hincha de Boca a morir, ⚠ ¡Perfil no apto para descendidos! ⚠. Me encanta mucho el fútbol, tanto jugarlo como ver las distintas ligas del mundo.
