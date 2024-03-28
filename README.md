@@ -2,6 +2,8 @@
 
 ## Mi nombre es Gonzalo León Bolaña 🦁. 
 
+![Foto Personal1](https://github.com/pdepjm/2024-tp0-presentacion-GonzaloBolana/assets/131401432/49ddc17e-78a5-4261-9aaa-0b7471aab6a0) 
+
 ### Información Personal o datos de interés:
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 * Mi Legajo: 208.387-5
@@ -16,6 +18,7 @@ ________________________________________________________________________________
 * También me dedico a desarrollar mis proyectos personales en la electrónica y a la reparación de PCs y Celulares.
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-### Espero que en la cursada o en los pasillos de la facu nos podramos ver y conocer! 
+### Finalmente, espero que podamos compartir un gran año y tener buena relación entre compañeros :D. 
+# ¡Les deseo éxitos a todos! 
 
-![Foto Personal1](https://github.com/pdepjm/2024-tp0-presentacion-GonzaloBolana/assets/131401432/77045481-17c0-4d40-8028-db5ada21f3be)
+![Ni_o_bailando_electro](https://github.com/pdepjm/2024-tp0-presentacion-GonzaloBolana/assets/131401432/fc357fe1-e73e-4bf7-a40e-ae6a06f4fe63)
